@@ -1,0 +1,9 @@
+RandomForest Classification Report:
+              precision    recall  f1-score   support
+
+     pull Up       0.98      0.95      0.96       260
+     push-up       0.98      0.99      0.98       566
+
+    accuracy                           0.98       826
+   macro avg       0.98      0.97      0.97       826
+weighted avg       0.98      0.98      0.98       826
